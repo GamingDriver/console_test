@@ -1,6 +1,10 @@
 #include "utilities.h"
 
 
+
+
+
+
 uint16_t mysum(uint16_t n) 
 {
 	uint16_t s = 0;
